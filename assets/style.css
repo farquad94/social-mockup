@@ -1,0 +1,34 @@
+body {
+    background-color: lightgray;
+}
+
+.big-blue-header {
+    height: 300px;
+    width: 80%px;
+    background-color:  #3578E5;
+    margin: 0 auto;
+}
+
+.navbar {
+    width: 80%;
+    margin: 0 auto;
+    height: 75px;
+    background-color: white;
+}
+
+.profile-photo {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 1.75%;
+    background-color: #3578E5;
+    position: relative;
+    top: 135px;
+    left: 20px;
+}
+/*
+-big blue box
+-white nav bar
+-profile photo, moved to the left and 
+positioned over the white bar and blue box
+*/
